@@ -1,0 +1,11 @@
+body{
+        background-image: linear-gradient(blue, lightblue);  
+    }
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    background-image: linear-gradient(rgb(57, 57, 247), lightblue);
+    box-sizing: border-box
+    
+}
